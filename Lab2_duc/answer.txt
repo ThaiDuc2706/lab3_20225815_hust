@@ -1,2 +1,0 @@
-1. Không thể tạo thêm 1 constructor DVD theo category bởi vì cả title và category đều là kiểu dữ liệu String. Nếu có 2 constructor đêù có kiểu dữ liệu đầu vào là String thì sẽ không thể phân biệt đây là title hay category => báo lỗi.1. Không thể tạo thêm 1 constructor DVD theo category bởi vì cả title và category đều là kiểu dữ liệu String. Nếu có 2 constructor đêù có kiểu dữ liệu đầu vào là String thì sẽ không thể phân biệt đây là title hay category => báo lỗi.
- 
